@@ -18,3 +18,6 @@ Section 1 corrections
 Section 2 semantic updates
 	Updated div tags to semantic tags (header, footer, article, aside, address)
 
+Final Page Image
+
+(./additional_doc_files/image-1.png)

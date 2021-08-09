@@ -20,4 +20,4 @@ Section 2 semantic updates
 
 Final Page Image
 
-(./additional_doc_files/image-1.png)
+[webpage image](./additional_doc_files/image-1.png)
